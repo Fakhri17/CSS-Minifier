@@ -1,5 +1,5 @@
-# Javascript Minifier
-Fungsi Membuat Minification Pada File Javascript
+# CSS Minifier
+Fungsi Membuat Minification Pada File CSS
 example :
 
 
